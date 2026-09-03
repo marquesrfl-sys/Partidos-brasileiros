@@ -1,8 +1,0 @@
-{
-  "name": "Atlas 30 - Partidos TSE 2026",
-  "short_name": "Atlas30",
-  "start_url": "./atlas30-standalone.html",
-  "display": "standalone",
-  "background_color": "#fafaf9",
-  "theme_color": "#000000"
-}
